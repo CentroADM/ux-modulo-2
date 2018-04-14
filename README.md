@@ -10,6 +10,8 @@
 
 ### Diseño
 
+- Flexbox
+- CSS Grid
 - CSS3: Animaciones y transiciones
 
 ### Diseño 
